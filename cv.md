@@ -31,4 +31,4 @@ This page summarises my resume. Please click [[here][my_cv]] for a complete, pri
 - 2019 -- Present. **Probability and Statistics**. *B.Sc. Management*.
 - 2018.&nbsp;**Financial Microeconomics**. *M.Sc. Wealth Management*.
 
-[my_cv]: /docs/academic_CV.pdf
+[my_cv]: docs/academic_CV.pdf
