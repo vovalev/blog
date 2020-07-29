@@ -22,7 +22,7 @@ title: Vladimir Levin's Website
 email: vladimir.levin@uni.lu
 description:
 author: Vladimir Levin
-baseurl: "blog" # the subpath of your site, e.g. /blog
+baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vladimirlevin.com" # the base hostname & protocol for your site, e.g. http://example.com
 github_username:  vovalev
 linkedin_username: vladimir-levin
