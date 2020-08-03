@@ -8,7 +8,7 @@ description: "This workshop is part of a series, reflecting on an emerging movem
 
 I will present my working paper *Dark Trading and Financial Markets Stability* at the online [Workshop on Critical Transitions in Complex Systems](https://sites.google.com/view/criticaltransitions2020 "Workshop's home page") (CriTiCS) on July 31, 2020.
 
-You can find the programme [[here](https://docs.google.com/spreadsheets/d/1HvBHRzp6_9htIWGSPMvhUvHb2YCG7jtkhHscOAknFZ8/edit#gid=1434950216 "Programme of the Workshop")] and register for the workshop [[here](https://sites.google.com/view/criticaltransitions2020/registration "Registration")]. The paper draft I am going to present is available [[here](https://ssrn.com/abstract=3384719 "SSRN abstract")]. Feel free to join!
+You can find the programme [[here](https://docs.google.com/spreadsheets/d/1HvBHRzp6_9htIWGSPMvhUvHb2YCG7jtkhHscOAknFZ8/edit#gid=1434950216 "Programme of the Workshop")]. The paper draft I am going to present is available [[here](https://ssrn.com/abstract=3384719 "SSRN abstract")].
 
 <br>
 
