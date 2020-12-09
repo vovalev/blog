@@ -6,7 +6,7 @@ permalink: /wp.html
 
 # Working Papers
 
-Dark Trading and Price Discovery, 2020. [[Slides](docs/paper2slides.pdf)]
+Dark Trading and Price Discovery, 2020. [[Slides](docs/paper2slides.pdf)] (make sure to download the pdf to allow for interactivity)
 
 **Abstract:** In this paper I model the limit order book together with a dark pool and study the effects, which the dark pool brings to the strategies of traders in lit markets.
 
