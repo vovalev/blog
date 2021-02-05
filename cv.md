@@ -22,6 +22,7 @@ This page summarises my resume. Please click [[here][my_cv]] for a complete, pri
 
 ## Awards and Grants
 
+- 2020.&nbsp;**Faculty of Law, Economics and Finance** Best PhD Student.
 - 2017.&nbsp;**Luxembourg National Research Fund**. PRIDE programme _Critical Transitions in Complex Systems_.
 - 2017.&nbsp;**Economist Club Luxembourg**. Best master thesis in Economics and Finance.
 
