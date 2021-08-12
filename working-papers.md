@@ -6,9 +6,9 @@ permalink: /wp.html
 
 # Working Papers
 
-Dark Trading and Price Discovery, 2020. [[Slides](docs/paper2slides.pdf)] (make sure to download the pdf to allow for interactivity)
+[Dark Pools and Price Discovery in Limit Order Markets](https://ssrn.com/abstract=3880047 "SSRN abstract"), 2020.
 
-**Abstract:** In this paper I model the limit order book together with a dark pool and study the effects, which the dark pool brings to the strategies of traders in lit markets.
+**Abstract:** This paper examines how the introduction of a dark pool impacts price discovery, market quality, and aggregate welfare of traders. I use a four-period model where rational and risk-neutral agents choose the order type and the venue and obtain the equilibrium numerically. The comparative statics on the order submission probability suggests a U-shaped order migration to the dark pool. The overall effect of dark trading on market quality and aggregate welfare was found to be positive but limited in size and depended on market conditions. I find mixed results for the process of price discovery. Depending on the immediacy need of traders, price discovery may change due to the presence of the dark venue.
 
 &nbsp;
 
