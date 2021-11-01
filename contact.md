@@ -6,7 +6,7 @@ permalink: /contact.html
 
 # Contact
 
-**Email**: vladimir.levin [at] uni.lu
+**Email**: blg.contact [at] vladimirlevin.com
 
 **Telephone**: +352 46 66 44-5826
 
