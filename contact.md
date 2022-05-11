@@ -6,7 +6,7 @@ permalink: /contact.html
 
 # Contact
 
-**Email**: blog[at] vladimirlevin.com
+**Email**: blog [at] vladimirlevin.com
 
 **Telephone**: +352 46 66 44-5826
 
