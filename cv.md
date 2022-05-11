@@ -6,7 +6,8 @@ permalink: /cv.html
 
 # Curriculum Vitae
 
-This page summarises my resume. Please click [[here][my_cv]] for a complete, printer-friendly version.
+This page summarizes my resume. 
+<!-- Please click [[here][my_cv]] for a complete, printer-friendly version. -->
 
 ## Education
 
@@ -16,7 +17,7 @@ This page summarises my resume. Please click [[here][my_cv]] for a complete, pri
 
 ## Professional Experience
 
-- Nov, 2017 - Today. **University of Luxembourg.** Ph.D. Candidate, _Predicting Financial Crashes_.
+- Nov, 2017 - Nov, 2021. **University of Luxembourg.** Ph.D. Candidate, _Predicting Financial Crashes_.
 - Jan, 2017 - Jul, 2017. **University of Luxembourg**. Research Assistant.
 - May, 2016 - Jul, 2016. **Kelly Services, Inc.** Finance Department Intern.
 
@@ -28,8 +29,8 @@ This page summarises my resume. Please click [[here][my_cv]] for a complete, pri
 
 ## Teaching
 
-- 2019 -- Present. **Empirical Finance**. *M.Sc. Economics and Finance*.
-- 2019 -- Present. **Probability and Statistics**. *B.Sc. Management*.
+- 2019 -- 2021. **Empirical Finance**. *M.Sc. Economics and Finance*.
+- 2019 -- 2020. **Probability and Statistics**. *B.Sc. Management*.
 - 2018.&nbsp;**Financial Microeconomics**. *M.Sc. Wealth Management*.
 
-[my_cv]: docs/academic_CV.pdf
+<!-- [my_cv]: docs/academic_CV.pdf -->
