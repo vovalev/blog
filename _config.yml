@@ -18,21 +18,21 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 
-title: Vladimir Levin's Blog
+title: My Blog
 # email: blog@vladimirlevin.com
 description:
 author: Vladimir Levin
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://vladimirlevin.com" # the base hostname & protocol for your site, e.g. http://example.com
 # url: ""
-github_username:  vovalev
+# github_username:
 linkedin_username: vladimir-levin
 # port: 4444
 header_pages:
-  - about.md
   - cv.md
   - working-papers.md
-  - contact.md
+  # - about.md
+  # - contact.md
 
 # Build settings
 theme: minima
