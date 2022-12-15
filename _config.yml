@@ -31,8 +31,6 @@ linkedin_username: vladimir-levin
 header_pages:
   - cv.md
   - working-papers.md
-  # - about.md
-  # - contact.md
 
 # Build settings
 theme: minima
