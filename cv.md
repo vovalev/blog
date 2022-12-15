@@ -11,6 +11,7 @@ This page summarizes my resume.
 
 ## Education
 
+- 2022.&nbsp;**University of Luxembourg**. PhD in Financial studies.
 - 2017.&nbsp;**University of Luxembourg**. Master in Economics and Finance.
 - 2017.&nbsp;**Higher School of Economics**. Master in Economics (double degree with the University of Luxembourg).
 - 2015.&nbsp;**Ivanovo State Power University**. Master in Technology.
